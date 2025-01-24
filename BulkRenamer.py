@@ -19,4 +19,4 @@ def rename_file(directory, pattern, newname):
 
 #rename_file("C:\\Users\\RichardOjokPriorityO\\Desktop\\TestDir", ".*\.txt", "Successstory")
 
-rename_file("C:\\Users\\RichardOjokPriorityO\\Desktop\\TestDir", ".*[0-9].*", "number")
+rename_file(r"C:\Users\richard.ojok\OneDrive - Fortius Clinic\Documents\Fortius Clinic Website\Web Dev\New folder\TestRename", ".*[0-9].*", "number")
